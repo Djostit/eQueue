@@ -34,3 +34,10 @@ eQueue – это ваш персональный электронный пас�
 
 ## Лицензия
 eQueue распространяется под лицензией [Apache License 2.0](https://github.com/Djostit/eQueue/blob/master/LICENSE.txt).
+
+<hr/>
+
+<p align="center">
+      <img src="https://i.ibb.co/vBV7LDf/uksivt.png">
+</p>
+<p align="center">Эко-система УКСИВТ</p>
